@@ -1,0 +1,2 @@
+Descargamos los pesos pre-entredanos para HR-Net en el siguiente catálogo.
+pose_hrnet_w32_256x192
